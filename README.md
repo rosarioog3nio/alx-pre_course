@@ -1,3 +1,3 @@
 My first README
 # alx-pre_course
-Just a text
+Just a text, right?
